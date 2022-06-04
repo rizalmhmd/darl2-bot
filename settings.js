@@ -3,6 +3,7 @@
 // 𓈃ּ ៹🍏𝗱𝑎𝙧̲𝘭𝐲̲𝘯̲𐂂!s⁹⁷☻‹𝟹
 // 𓈃ּ ៹🍏𝗱𝑎𝙧̲𝘭𝐲̲𝘯̲𐂂!s⁹⁷☻‹𝟹
 // 𓈃ּ ៹🍏𝗱𝑎𝙧̲𝘭𝐲̲𝘯̲𐂂!s⁹⁷☻‹𝟹
+// . 🩹⋆ 🪜 ⏜⃞ჩ ♞ ᵈᵃʳˡʸⁿ — 𖦹࣪
 // 𓈃ּ Darlyn
 //════════════════════════════//
 const fs = require('fs')
@@ -29,8 +30,8 @@ global.ig = 'https://appweb-darlyn.vercel.app'
 global.region = 'Peru, trujillo'
 global.sc = 'https://appweb-darlyn.vercel.app'
 global.myweb = 'https://github.com/darlyn1234/darl2-bot'
-global.packname = '𓈃ּ ៹🍏𝗱𝑎𝙧̲𝘭𝐲̲𝘯̲𐂂!s⁹⁷☻‹𝟹'
-global.author = 'Darlyn . 🩹⋆ 🪜 ⏜⃞ჩ ♞ ᵈᵃʳˡʸⁿ — 𖦹࣪ᰍ'
+global.packname = '𓈃ּ𝗱𝑎𝙧̲𝘭𝐲̲𝘯̲ᵇᵒᵗ'
+global.author = '---Darlyn --- 🩹⋆ ♞ᵇᵒᵗ⁻ᴹᴰ𐂂𖦹࣪'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
