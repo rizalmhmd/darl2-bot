@@ -20,10 +20,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['51918303426', '51923513366'] // cambiar numero del owner 
-global.premium = ['51918303426']              // cambiar numero premium
-global.ownernomer = '51918303426'             // cambiar numero del owner
-global.ownername = 'Darlyn'
+global.owner = ['6281333154367'] // cambiar numero del owner 
+global.premium = ['6281333154367']              // cambiar numero premium
+global.ownernomer = '6281333154367'             // cambiar numero del owner
+global.ownername = 'Zall'
 global.botname = '<div> 𝑆𝑜𝑓𝑓𝑓 </div>'
 global.footer = '<div> 𝑆𝑜𝑓𝑓𝑓 </div>'
 global.ig = 'https://appweb-darlyn.vercel.app'
